@@ -38,5 +38,5 @@
 body {
     width: 100vw;
     background-color: #e8e6e7;
-    overflow-y: hidden;
+    overflow-x: hidden;
 }
