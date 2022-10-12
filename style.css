@@ -10,7 +10,17 @@
 
 :root {
     --font-1: 'Inter Tight' ;
+    --cor-primari: #ffff;
 }
+/* .color-primari {
+    color: var(--cor-primari);
+}
+.bg-primari {
+    background: var(--cor-primari);
+} */
+/* .dark-mode:root {
+
+} */
 
 body {
     width: 100vw;
@@ -62,10 +72,6 @@ header {
     color: #ffff;
     border-bottom: 2px solid#ffff;
 }
-
-
-
-
     
 
 /* // main // */
@@ -90,7 +96,7 @@ main section {
 
 .main-text h3 {
     font-family: var(--font-1);
-    font-size: 3.5rem;
+    font-size: 4rem;
     letter-spacing: 3px;
     margin-bottom: 2rem;
 }
