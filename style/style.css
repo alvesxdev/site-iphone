@@ -118,7 +118,8 @@ main section {
 }
 
 .main-text .btn:hover {
-    opacity: .85;
+    padding: 13px;
+    background-color: #01203f;
 }
 
 .main-text .text h3 {
@@ -144,7 +145,7 @@ main section {
 }
 
 .main-text .content-btn span:hover {
-    opacity: .80;
+    transform: scale(1.1);
 }
 
 /* // COLORS TO CHANGE THE IPHONE// */
