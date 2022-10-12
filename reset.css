@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+/* // FONTS SITE // */
+
+@font-face {
+    font-family: 'fontOne';
+    src: url(fonts/Inter/static/Inter-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'fontMont';
+    src: url(fonts/Montserrat/static/Montserrat-Medium.ttf);
+}
+
+/* // VAR COLORS & FONTS // */
+
+
+:root {
+    --font-1: 'fontOne';
+    --font-2: 'fontMont';
+
+    /* // COLORS // */
+
+    --green-i: #384937;
+    --pink-i: #f8ddd6;
+    --blue-i: #225f7e;
+    --black-i: #192028;
+    --white-i: #f7f2ee;
+    --red-i: #ae0617;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #e8e6e7;
+    overflow-y: hidden;
+}
