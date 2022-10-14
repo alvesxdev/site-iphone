@@ -33,6 +33,10 @@
     --black-i: #192028;
     --white-i: #f7f2ee;
     --red-i: #ae0617;
+
+    /* // COLOR HEADER // */
+
+    --color-header: #00000057;
 }
 
 body {

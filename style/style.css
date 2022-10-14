@@ -24,7 +24,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #0000004f;
+    background-color: var(--color-header);
     padding: 5px 30px;
     border-radius: 15px;
 }

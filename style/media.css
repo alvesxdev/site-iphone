@@ -25,7 +25,7 @@
     margin: auto;
     display: flex;
     justify-content: space-between;
-    background-color: #1a1a1a65;
+    background-color: var(--color-header);
   }
   .menu-section ul {
     display: none;
@@ -64,7 +64,7 @@
     margin: 100px auto;
     gap: 15px;
     font-size: 1.3rem;
-    background-color: rgba(0, 0, 0, 0.425);
+    background-color: var(--color-header);
     padding: 10px 0;
     border-radius: 25px;
 
