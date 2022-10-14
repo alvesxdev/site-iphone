@@ -128,6 +128,9 @@ main section {
     color: #444;
     margin: 2rem 0;
 }
+.content-btn-text {
+    margin-bottom: 45px;
+}
 
 .main-text .content-btn {
     display: flex;
@@ -147,6 +150,8 @@ main section {
 .main-text .content-btn span:hover {
     transform: scale(1.1);
 }
+
+
 
 /* // COLORS TO CHANGE THE IPHONE// */
 
