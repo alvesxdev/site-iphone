@@ -6,7 +6,7 @@
 
 <h2> Projeto com Intuido de demonstrar meu conhecimento!
 
-[Clique aqui para acessar](https://henryzxp1dev.github.io/site-iphone/)
+[Clique aqui para acessar](https://alvesxdev.github.io/site-iphone/)
 
 ## Tecnologias
 
